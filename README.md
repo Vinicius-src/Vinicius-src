@@ -1,4 +1,4 @@
-#olá eu sou Vincius da Silva 👋
+# Olá! eu sou Vincius Chaga 👋 
 
 <div align="center">
   <a href="https://github.com/Vinicius-src">
@@ -14,7 +14,7 @@
   <img align="center" alt="vinicius-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg">
   <img align="center" alt="vinicius-PhotoShop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="vinicius-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-  <img align="right" alt="vinicius-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/880872510923616317/947137340231528468/0m9-byV5qedYJoyCsMTsgtNxh93GrV-U8_ay9ePyraQ.mp4">
+  <img align="right" alt="vinicius-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/880872510923616317/947142676489318400/200_1.gif">
 </div>
   
   ##
