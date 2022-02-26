@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/Vinicius-src">
   <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Vinicius-src&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-src&layout=compact&langs_count=7&theme=dark"/>
+  <img align="right" alt="vinicius-pic"  style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/880872510923616317/947142676489318400/200_1.gif">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +14,6 @@
   <img align="center" alt="vinicius-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg">
   <img align="center" alt="vinicius-PhotoShop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="vinicius-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-  <img align="right" alt="vinicius-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/880872510923616317/947142676489318400/200_1.gif">
 </div>
   
   ##
