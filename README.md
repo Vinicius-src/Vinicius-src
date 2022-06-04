@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Vinicius-src">
-  <img height="48%" widght="50%" src="https://github-readme-stats.vercel.app/api?username=Vinicius-src&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="48%" widght="45%" src="https://github-readme-stats.vercel.app/api?username=Vinicius-src&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="right" alt="vinicius-pic"  style="border-radius:50px;" height="180em"  width="250em"src="https://cdn.discordapp.com/attachments/880872510923616317/982538779699085352/200_1.gif">
 </div>
 <div style="display: inline_block"><br>
