@@ -13,7 +13,8 @@
   <img align="center" alt="vinicius-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg">
   <img align="center" alt="vinicius-PhotoShop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="vinicius-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
- <img align="right" alt="vinicius" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/880872510923616317/982538779699085352/200_1.gif">
+ <img align="right" alt="vinicius" height="150" width="150" style="border-radius:50px;" src="https://thumbs.gfycat.com/LimpOblongFanworms-max-1mb.gif">
+ 
   ##
  
 <div> 
