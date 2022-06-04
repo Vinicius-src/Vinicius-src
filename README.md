@@ -13,6 +13,7 @@
   <img align="center" alt="vinicius-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg">
   <img align="center" alt="vinicius-PhotoShop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="vinicius-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
+  
   ![200_1](https://user-images.githubusercontent.com/81270407/171989363-4f02f559-e133-499f-9fde-9236f626acfd.gif)
 
   ##
