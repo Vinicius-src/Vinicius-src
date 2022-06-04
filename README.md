@@ -1,8 +1,7 @@
 # Olá! eu sou Vincius Chaga 👋 
 
 <div align="center">
-  <img height="46%" widght="20%" src="https://github-readme-stats.vercel.app/api?username=Vinicius-src&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="50%" widght="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-src&layout=compact&langs_count=7&theme=dark"/>
+  <img height="46%" widght="20%" src="https://github-readme-stats.vercel.app/api?username=Vinicius-src&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="50%" widght="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-src&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
