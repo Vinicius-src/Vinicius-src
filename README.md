@@ -2,9 +2,7 @@
 
 <div align="center">
   <img height="48%" widght="30%" src="https://github-readme-stats.vercel.app/api?username=Vinicius-src&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-src&layout=compact&langs_count=7&theme=dracula"/>
-    
-    ![0441ea5619b979bde781aa040943c208](https://user-images.githubusercontent.com/81270407/171989402-93e13df2-e1fa-43fc-a66c-887b99c3e6fd.gif)
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-src&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,9 +13,6 @@
   <img align="center" alt="vinicius-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg">
   <img align="center" alt="vinicius-PhotoShop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="vinicius-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-  
- 
-![0441ea5619b979bde781aa040943c208](https://user-images.githubusercontent.com/81270407/171989402-93e13df2-e1fa-43fc-a66c-887b99c3e6fd.gif)
 
   ##
  
@@ -29,4 +24,3 @@
   ![Snake animation](https://github.com/vinicius-src/vinicius-src/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  ![0441ea5619b979bde781aa040943c208](https://user-images.githubusercontent.com/81270407/171989402-93e13df2-e1fa-43fc-a66c-887b99c3e6fd.gif)
