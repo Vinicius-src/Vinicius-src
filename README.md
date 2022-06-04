@@ -1,9 +1,9 @@
 # Olá! eu sou Vincius Chaga 👋 
 
 <div align="center">
-  <a href="https://github.com/Vinicius-src">
+
   <img height="48%" widght="45%" src="https://github-readme-stats.vercel.app/api?username=Vinicius-src&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +14,7 @@
   <img align="center" alt="vinicius-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg">
   <img align="center" alt="vinicius-PhotoShop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="vinicius-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-  src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+
 </div>
   
   ##
