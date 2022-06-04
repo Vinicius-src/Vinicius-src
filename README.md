@@ -28,3 +28,4 @@
   ![Snake animation](https://github.com/vinicius-src/vinicius-src/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  ![0441ea5619b979bde781aa040943c208](https://user-images.githubusercontent.com/81270407/171989402-93e13df2-e1fa-43fc-a66c-887b99c3e6fd.gif)
