@@ -1,10 +1,8 @@
 # Olá! eu sou Vincius Chaga 👋 
 
 <div align="center">
-
+<a href="https://github.com/Vinicius-src">
   <img height="48%" widght="45%" src="https://github-readme-stats.vercel.app/api?username=Vinicius-src&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-  
   ![200_1](https://user-images.githubusercontent.com/81270407/171989163-2ea678e1-3121-46f5-94eb-b7349ca42826.gif)
 
 </div>
@@ -17,9 +15,6 @@ src="https://media.discordapp.net/attachments/639956127056134178/890373478988013
   <img align="center" alt="vinicius-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg">
   <img align="center" alt="vinicius-PhotoShop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="vinicius-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-
-</div>![200_1](https://user-images.githubusercontent.com/81270407/171989152-576094ec-4a25-4835-98d8-70bdfe7bf005.gif)
-
   
   ##
  
