@@ -2,6 +2,7 @@
 
 <div align="center">
   <img height="48%" widght="30%" src="https://github-readme-stats.vercel.app/api?username=Vinicius-src&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-src&layout=compact&langs_count=7&theme=dracula"/>
     
     ![0441ea5619b979bde781aa040943c208](https://user-images.githubusercontent.com/81270407/171989402-93e13df2-e1fa-43fc-a66c-887b99c3e6fd.gif)
 </div>
