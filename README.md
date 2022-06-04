@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/Vinicius-src">
   <img height="48%" widght="45%" src="https://github-readme-stats.vercel.app/api?username=Vinicius-src&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" alt="vinicius-pic"  style="border-radius:50px;" height="180em"  width="250em"src="![200_1](https://user-images.githubusercontent.com/81270407/171988718-2da89e9c-5bff-48e8-9dce-6956b00fac46.gif)">
+ ![200_1](https://user-images.githubusercontent.com/81270407/171988718-2da89e9c-5bff-48e8-9dce-6956b00fac46.gif)
 </div>
 
 <div style="display: inline_block"><br>
