@@ -3,9 +3,8 @@
 <div align="center">
   <a href="https://github.com/Vinicius-src">
   <img height="48%" widght="45%" src="https://github-readme-stats.vercel.app/api?username=Vinicius-src&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- ![200_1](https://user-images.githubusercontent.com/81270407/171988718-2da89e9c-5bff-48e8-9dce-6956b00fac46.gif)
 </div>
-
+![200_1](https://user-images.githubusercontent.com/81270407/171988718-2da89e9c-5bff-48e8-9dce-6956b00fac46.gif)
 <div style="display: inline_block"><br>
   <img align="center" alt="vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vinicius-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
