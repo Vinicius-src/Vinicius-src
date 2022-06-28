@@ -1,5 +1,5 @@
-# <img align="center" alt="vinicius" height="150" style="border-radius:50px;" src=""> Olá! eu sou Vincius Chaga 👋
-<div align="center">
+# <img align="center" alt="vinicius" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/81270407/176083457-59c015c6-299b-4f54-8207-660bae3470de.png"> Olá! seja bem vindo ao meu portfólio 👋
+
  <a align="center" href="https://github.com/Vinicius-src">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-src&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-src&layout=compact&langs_count=7&theme=dark"/>
 </div>
